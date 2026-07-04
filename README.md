@@ -690,18 +690,9 @@ Participated in team sports to strengthen discipline, collaboration, leadership,
 
 # Contribution Snake
 
-<div align="center">
-
-> **Enable this after creating the GitHub Action.**
-
-
-```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hi-FIve-Ghost/Hi-FIve-Ghost/output/github-contribution-grid-snake-dark.svg" />
 </p>
-```
-
----
 
 # Current Focus
 
@@ -754,7 +745,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:abdullajamil971@gmail.com">
 <img src="https://img.shields.io/badge/Email-Add%20Later-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
