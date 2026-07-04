@@ -694,42 +694,6 @@ Participated in team sports to strengthen discipline, collaboration, leadership,
 
 > **Enable this after creating the GitHub Action.**
 
-```text
-.github/workflows/snake.yml
-```
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-          github_user_name: Hi-FIve-Ghost
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ```html
 <p align="center">
