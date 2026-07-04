@@ -731,8 +731,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After enabling the workflow, display it using:
-
 ```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hi-FIve-Ghost/Hi-FIve-Ghost/output/github-contribution-grid-snake-dark.svg" />
