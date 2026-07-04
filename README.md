@@ -42,8 +42,8 @@
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="www.gmail.com/abdullajamil971@gmail.com">
-<img src="https://img.shields.io/badge/Professional%20Email-Email%20Me-6D28D9?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Professional%20Email-abdullajamil971@gmail.com-6D28D9?style=for-the-badge"/>
 </a>
 
 </div>
